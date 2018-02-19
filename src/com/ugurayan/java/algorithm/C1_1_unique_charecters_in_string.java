@@ -31,20 +31,20 @@ public class C1_1_unique_charecters_in_string {
     // bit vector
     // * Complexity is O(n)
 
-    public static boolean isUniqueChars(String str) {
-
-        int checker = 0;
-
-        for (int i = 0; i < str.length(); ++i) {
-
-            int val = str.charAt(i) - ‘a’;
-
-            if ((checker & (1 << val)) > 0) return false;
-
-            checker |= (1 << val);
-
-        }
-
-        return true;
-    }
+//    public static boolean isUniqueChars(String str) {
+//
+//        int checker = 0;
+//
+//        for (int i = 0; i < str.length(); ++i) {
+//
+//            int val = str.charAt(i) - ‘a’;
+//
+//            if ((checker & (1 << val)) > 0) return false;
+//
+//            checker |= (1 << val);
+//
+//        }
+//
+//        return true;
+//    }
 }

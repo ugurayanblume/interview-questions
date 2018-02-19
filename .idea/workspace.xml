@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7230bd6-1578-45d5-abb2-1d3631685041" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_4_anagram.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/linkedList/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/linkedList/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/queue/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/queue/Queue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/stack/Main.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/Main.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_3_remove_duplicates.java" afterPath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_3_remove_duplicates.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_1_unique_charecters_in_string.java" afterPath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_1_unique_charecters_in_string.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,86 +20,96 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Cracking_Interview$Main.coverage" NAME="Main Coverage Results" MODIFIED="1519032951073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/Main.java">
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/linkedList/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="27" />
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="C1_1_unique_charecters_in_string.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_1_unique_charecters_in_string.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/linkedList/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            <state relative-caret-position="342">
+              <caret line="41" column="42" lean-forward="false" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
               <folding>
-                <element signature="e#426#464#1" expanded="true" />
-                <element signature="e#479#489#1" expanded="true" />
-                <element signature="e#474#644#0" expanded="true" />
-                <element signature="e#528#552#1" expanded="true" />
-                <element signature="e#474#644#0" expanded="true" />
-                <element signature="e#538#551#0" expanded="true" />
-                <element signature="e#474#644#0" expanded="true" />
-                <element signature="e#538#551#0" expanded="true" />
-                <element signature="e#784#800#1" expanded="true" />
-                <element signature="e#815#825#1" expanded="true" />
-                <element signature="e#864#889#1" expanded="true" />
-                <element signature="e#874#887#0" expanded="true" />
-                <element signature="e#874#887#0" expanded="true" />
+                <element signature="method#addNode#0;class#Main#0" expanded="false" />
+                <element signature="e#449#467#1" expanded="true" />
+                <element signature="method#addNode#1;class#Main#0" expanded="false" />
+                <element signature="e#622#646#1" expanded="true" />
+                <element signature="e#655#673#1" expanded="true" />
+                <element signature="method#deleteNode#0;class#Main#0" expanded="false" />
+                <element signature="e#835#853#1" expanded="true" />
+                <element signature="method#printLinkedList#0;class#Main#0" expanded="false" />
+                <element signature="e#1130#1148#1" expanded="true" />
+                <element signature="e#1157#1167#1" expanded="true" />
+                <element signature="e#1195#1221#0" expanded="true" />
+                <element signature="e#1195#1221#0" expanded="true" />
+                <element signature="e#1195#1221#0" expanded="true" />
+                <element signature="e#1195#1221#0" expanded="true" />
+                <element signature="e#1337#1371#0" expanded="true" />
+                <element signature="e#1337#1371#0" expanded="true" />
+                <element signature="e#1337#1371#0" expanded="true" />
+                <element signature="e#1337#1371#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="C1_2_reverse_c_string.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_2_reverse_c_string.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/stack/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="27" column="52" lean-forward="true" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+            <state relative-caret-position="272">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/queue/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="82" column="5" lean-forward="false" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
               <folding>
-                <element signature="e#619#663#1" expanded="true" />
-                <element signature="e#672#696#1" expanded="true" />
-                <element signature="e#710#720#1" expanded="true" />
-                <element signature="e#705#801#0" expanded="true" />
-                <element signature="e#705#801#0" expanded="true" />
-                <element signature="e#705#801#0" expanded="true" />
-                <element signature="e#776#789#0" expanded="true" />
-                <element signature="e#776#789#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#552#553#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#705#714#0" expanded="true" />
+                <element signature="e#848#868#1" expanded="true" />
+                <element signature="e#960#969#0" expanded="true" />
+                <element signature="e#1089#1098#0" expanded="true" />
+                <element signature="e#1161#1184#1" expanded="true" />
+                <element signature="e#1238#1247#0" expanded="true" />
+                <element signature="method#toString#0;class#Queue#0" expanded="false" />
+                <element signature="e#1353#1391#1" expanded="true" />
+                <element signature="e#1405#1414#0" expanded="true" />
+                <element signature="e#1437#1451#0" expanded="true" />
+                <element signature="e#1437#1451#0" expanded="true" />
+                <element signature="e#1465#1478#0" expanded="true" />
+                <element signature="e#1465#1478#0" expanded="true" />
+                <element signature="class#ListIterator#0;class#Queue#0" expanded="false" />
+                <element signature="e#2043#2068#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="C1_3_remove_duplicates.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_3_remove_duplicates.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/queue/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-              <folding>
-                <element signature="e#425#446#1" expanded="true" />
-                <element signature="e#484#497#1" expanded="true" />
-                <element signature="e#511#521#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="C1_4_anagram.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_4_anagram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#287#319#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -118,10 +134,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_1_unique_charecters_in_string.java" />
         <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_2_reverse_c_string.java" />
         <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_3_remove_duplicates.java" />
         <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_4_anagram.java" />
+        <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/linkedList/main.java" />
+        <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/linkedList/Node.java" />
+        <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_1_unique_charecters_in_string.java" />
+        <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/linkedList/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/stack/Stack.java" />
+        <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/stack/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/queue/Queue.java" />
+        <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/queue/Main.java" />
       </list>
     </option>
   </component>
@@ -183,6 +206,72 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cracking-Interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cracking-Interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cracking-Interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cracking-Interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="queue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cracking-Interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cracking-Interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linkedList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -192,6 +281,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ugurayan.java.algorithm.stack" />
+      <recent name="com.ugurayan.java.algorithm.queue" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,15 +301,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.ugurayan.java.algorithm.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.ugurayan.java.algorithm.linkedList.Main" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -221,6 +317,46 @@
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ugurayan.java.algorithm.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ugurayan.java.algorithm.stack.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Cracking-Interview" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ugurayan.java.algorithm.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ugurayan.java.algorithm.queue.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Cracking-Interview" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -717,9 +853,18 @@
       <envs />
       <method />
     </configuration>
-    <list size="1">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main (2)" />
     </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
@@ -736,41 +881,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519016818092</updated>
-      <workItem from="1519016849453" duration="6105000" />
+      <workItem from="1519016849453" duration="14630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6105000" />
+    <option name="totallyTimeSpent" value="14630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="3" width="1361" height="737" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33006537" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39869282" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901752" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33006537" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38309216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -787,53 +934,50 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="27" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_1_unique_charecters_in_string.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="277">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
-            <element signature="e#426#464#1" expanded="true" />
-            <element signature="e#479#489#1" expanded="true" />
-            <element signature="e#474#644#0" expanded="true" />
-            <element signature="e#528#552#1" expanded="true" />
-            <element signature="e#474#644#0" expanded="true" />
-            <element signature="e#538#551#0" expanded="true" />
-            <element signature="e#474#644#0" expanded="true" />
-            <element signature="e#538#551#0" expanded="true" />
-            <element signature="e#784#800#1" expanded="true" />
-            <element signature="e#815#825#1" expanded="true" />
-            <element signature="e#864#889#1" expanded="true" />
-            <element signature="e#874#887#0" expanded="true" />
-            <element signature="e#874#887#0" expanded="true" />
+            <element signature="e#426#464#1" expanded="false" />
+            <element signature="e#479#489#1" expanded="false" />
+            <element signature="e#474#644#0" expanded="false" />
+            <element signature="e#528#552#1" expanded="false" />
+            <element signature="e#474#644#0" expanded="false" />
+            <element signature="e#538#551#0" expanded="false" />
+            <element signature="e#474#644#0" expanded="false" />
+            <element signature="e#538#551#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_2_reverse_c_string.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="27" column="52" lean-forward="true" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        <state relative-caret-position="76">
+          <caret line="27" column="52" lean-forward="false" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
           <folding>
-            <element signature="e#619#663#1" expanded="true" />
-            <element signature="e#672#696#1" expanded="true" />
-            <element signature="e#710#720#1" expanded="true" />
-            <element signature="e#705#801#0" expanded="true" />
-            <element signature="e#705#801#0" expanded="true" />
-            <element signature="e#705#801#0" expanded="true" />
-            <element signature="e#776#789#0" expanded="true" />
-            <element signature="e#776#789#0" expanded="true" />
+            <element signature="e#619#663#1" expanded="false" />
+            <element signature="e#672#696#1" expanded="false" />
+            <element signature="e#710#720#1" expanded="false" />
+            <element signature="e#705#801#0" expanded="false" />
+            <element signature="e#705#801#0" expanded="false" />
+            <element signature="e#705#801#0" expanded="false" />
+            <element signature="e#776#789#0" expanded="false" />
+            <element signature="e#776#789#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -843,9 +987,9 @@
         <state relative-caret-position="153">
           <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding>
-            <element signature="e#425#446#1" expanded="true" />
-            <element signature="e#484#497#1" expanded="true" />
-            <element signature="e#511#521#1" expanded="true" />
+            <element signature="e#425#446#1" expanded="false" />
+            <element signature="e#484#497#1" expanded="false" />
+            <element signature="e#511#521#1" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -853,12 +997,118 @@
     <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_4_anagram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="e#205#206#0" expanded="true" />
             <element signature="e#246#247#0" expanded="true" />
             <element signature="e#287#319#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/linkedList/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/linkedList/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="41" column="42" lean-forward="false" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+          <folding>
+            <element signature="method#addNode#0;class#Main#0" expanded="false" />
+            <element signature="e#449#467#1" expanded="true" />
+            <element signature="method#addNode#1;class#Main#0" expanded="false" />
+            <element signature="e#622#646#1" expanded="true" />
+            <element signature="e#655#673#1" expanded="true" />
+            <element signature="method#deleteNode#0;class#Main#0" expanded="false" />
+            <element signature="e#835#853#1" expanded="true" />
+            <element signature="method#printLinkedList#0;class#Main#0" expanded="false" />
+            <element signature="e#1130#1148#1" expanded="true" />
+            <element signature="e#1157#1167#1" expanded="true" />
+            <element signature="e#1195#1221#0" expanded="true" />
+            <element signature="e#1195#1221#0" expanded="true" />
+            <element signature="e#1195#1221#0" expanded="true" />
+            <element signature="e#1195#1221#0" expanded="true" />
+            <element signature="e#1337#1371#0" expanded="true" />
+            <element signature="e#1337#1371#0" expanded="true" />
+            <element signature="e#1337#1371#0" expanded="true" />
+            <element signature="e#1337#1371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/stack/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Node#0;class#Stack#0" expanded="false" />
+            <element signature="method#Stack#0;class#Stack#0" expanded="false" />
+            <element signature="method#push#0;class#Stack#0" expanded="false" />
+            <element signature="e#578#600#1" expanded="true" />
+            <element signature="method#pop#0;class#Stack#0" expanded="false" />
+            <element signature="e#743#752#0" expanded="true" />
+            <element signature="e#815#838#0" expanded="true" />
+            <element signature="method#peek#0;class#Stack#0" expanded="false" />
+            <element signature="e#1050#1059#0" expanded="true" />
+            <element signature="method#toString#0;class#Stack#0" expanded="false" />
+            <element signature="e#1187#1225#1" expanded="true" />
+            <element signature="e#1239#1248#0" expanded="true" />
+            <element signature="e#1271#1285#0" expanded="true" />
+            <element signature="e#1271#1285#0" expanded="true" />
+            <element signature="e#1299#1312#0" expanded="true" />
+            <element signature="e#1299#1312#0" expanded="true" />
+            <element signature="class#ListIterator#0;class#Stack#0" expanded="false" />
+            <element signature="e#1865#1890#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/queue/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="82" column="5" lean-forward="false" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#705#714#0" expanded="true" />
+            <element signature="e#848#868#1" expanded="true" />
+            <element signature="e#960#969#0" expanded="true" />
+            <element signature="e#1089#1098#0" expanded="true" />
+            <element signature="e#1161#1184#1" expanded="true" />
+            <element signature="e#1238#1247#0" expanded="true" />
+            <element signature="method#toString#0;class#Queue#0" expanded="false" />
+            <element signature="e#1353#1391#1" expanded="true" />
+            <element signature="e#1405#1414#0" expanded="true" />
+            <element signature="e#1437#1451#0" expanded="true" />
+            <element signature="e#1437#1451#0" expanded="true" />
+            <element signature="e#1465#1478#0" expanded="true" />
+            <element signature="e#1465#1478#0" expanded="true" />
+            <element signature="class#ListIterator#0;class#Queue#0" expanded="false" />
+            <element signature="e#2043#2068#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/stack/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/queue/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
