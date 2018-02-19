@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7230bd6-1578-45d5-abb2-1d3631685041" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_4_anagram.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_2_reverse_c_string.java" afterPath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_2_reverse_c_string.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_3_remove_duplicates.java" afterPath="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_3_remove_duplicates.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +51,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="C1_2_reverse_c_string.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="C1_2_reverse_c_string.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_2_reverse_c_string.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -64,6 +65,34 @@
                 <element signature="e#705#801#0" expanded="true" />
                 <element signature="e#776#789#0" expanded="true" />
                 <element signature="e#776#789#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="C1_3_remove_duplicates.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_3_remove_duplicates.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <element signature="e#425#446#1" expanded="true" />
+                <element signature="e#484#497#1" expanded="true" />
+                <element signature="e#511#521#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="C1_4_anagram.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_4_anagram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#287#319#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,6 +120,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_1_unique_charecters_in_string.java" />
         <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_2_reverse_c_string.java" />
+        <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_3_remove_duplicates.java" />
+        <option value="$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_4_anagram.java" />
       </list>
     </option>
   </component>
@@ -705,12 +736,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519016818092</updated>
-      <workItem from="1519016849453" duration="3464000" />
+      <workItem from="1519016849453" duration="6105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3464000" />
+    <option name="totallyTimeSpent" value="6105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="3" width="1361" height="737" extended-state="6" />
@@ -803,6 +834,30 @@
             <element signature="e#705#801#0" expanded="true" />
             <element signature="e#776#789#0" expanded="true" />
             <element signature="e#776#789#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_3_remove_duplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#425#446#1" expanded="true" />
+            <element signature="e#484#497#1" expanded="true" />
+            <element signature="e#511#521#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ugurayan/java/algorithm/C1_4_anagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#287#319#1" expanded="true" />
           </folding>
         </state>
       </provider>
